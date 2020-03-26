@@ -1,0 +1,20 @@
+<Context path="/UserChat" docBase="www">
+	<!-- 데이터베이스 접근 -->
+	<Resource
+		name="jdbc/UserChat"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver"
+		loginTimeout="10"
+		validationQuary="SELECT 1 FROM DUAL"
+		maxWait="5000"
+		username="root"
+		password="root"
+		textOnBorrow="true"
+		url="jdbc:mysql://localhost:3306/UserChat"/>
+	<ResourceLink type="javax.sql.data.DataSource"
+		name="jdbc/UserChat"
+		global="jdbc/UserChat"/>
+</Context>
+<!-- docBase="www": 웹 콘텐츠인 것을 알려줌 -->
+<!-- Resource에 넣어봤지만 여전히 UserDAO가 오류남: factory="org.apache.tomcat.jdbc.pool.DataSourceFactory" -->
