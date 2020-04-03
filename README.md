@@ -1,3 +1,8 @@
+<style>
+  .body {
+  color: red;
+</style>
+
 # jspChatboard
 실시간 채팅기능과 게시판기능을 혼합해놓은 jsp웹사이트입니다.
 실시간채팅과 메시지 그리고 프로필사진을 추가할 수 있습니다.
