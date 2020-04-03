@@ -5,4 +5,4 @@
 이 기능들은 회원가입 및 로그인을 하지 않으면 사용할 수 없습니다.
 
 # 사용 기술
-<li><a> ㅇㅈㅇㅈ</a></li>
+<li><a>Java, Html, xml, Servlet, Ajax, Json</a></li>
