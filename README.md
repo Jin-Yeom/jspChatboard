@@ -75,15 +75,16 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 
 
 
-![게시판](https://user-images.githubusercontent.com/57334358/78348783-8f435c00-75dd-11ea-9b8c-5d9ae8e211ab.PNG)
+![게시판](https://user-images.githubusercontent.com/57334358/78351777-51950200-75e2-11ea-9d0f-8cb7072ae5f0.PNG)
 
-자신의 게시물을 수정 및 삭제할 수 있습니다. 답변을 달 시에는 화살표로 '답변'이라고 표시해줍니다.
+자신의 게시물을 수정 및 삭제할 수 있습니다. 답변을 달 시에는 화살표로 '답변'이라고 표시해줍니다.<br>
+게시물이 10개가 되면 다음페이지로 넘어갑니다.
 
 
 <strong>파일 다운로드</strong>
 
 
 
-![다운로드](https://user-images.githubusercontent.com/57334358/78349503-aafb3200-75de-11ea-81b2-b9260f58027d.PNG)
+![다운로드](https://user-images.githubusercontent.com/57334358/78351748-417d2280-75e2-11ea-96dc-7646da634c09.PNG)
 
 게시판에 10MB이하의 파일을 첨부하였을 시 다른 사용자가 그 파일을 다운로드 할 수 있습니다.
