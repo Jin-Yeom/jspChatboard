@@ -4,7 +4,7 @@
 게시판 또한 이미지파일을 첨부할 수 있으며 다운로드 할 수 있게 만들었습니다. 
 이 기능들은 회원가입 및 로그인을 하지 않으면 사용할 수 없습니다.
 
-# <a style="color: red;">사용 기술</a>
+# <h1 style="color: red;">사용 기술</h1>
 <li><a>Java, Html, xml, Servlet, Ajax, Json</a></li>
 
 # 프로젝트 기간 및 인원
