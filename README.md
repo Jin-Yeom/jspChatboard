@@ -37,3 +37,12 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 ![회원정보수정](https://user-images.githubusercontent.com/57334358/78345266-77b5a480-75d8-11ea-8558-21c6ffeede8f.PNG)
 
 회원정보와 프로필을 수정 할 수 있습니다.
+
+<strong>메시지함</strong>
+
+
+
+![메시지함](https://user-images.githubusercontent.com/57334358/78346704-5e155c80-75da-11ea-8711-0c13cc718f1c.PNG)
+
+다른 유저에게 채팅을 보내면 메시지함에 읽지 않은 메시지로 저장이 됩니다. 
+읽었을 시 '읽지 않은 메시지 수' 아이콘이 사라집니다.
