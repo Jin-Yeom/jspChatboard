@@ -28,3 +28,12 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 ![register](https://user-images.githubusercontent.com/57334358/78344473-66b86380-75d7-11ea-9ab9-0d7ec072e9e7.PNG)
 
 간단한 정보들을 넣을 수 있도록 회원가입을 구성했습니다. 
+
+<strong>프로필 수정 및 회원정보 수정</strong>
+
+
+
+![프로필수정](https://user-images.githubusercontent.com/57334358/78345238-6c627900-75d8-11ea-9c83-490f79289dbc.PNG)
+![회원정보수정](https://user-images.githubusercontent.com/57334358/78345266-77b5a480-75d8-11ea-8558-21c6ffeede8f.PNG)
+
+회원정보와 프로필을 수정 할 수 있습니다.
