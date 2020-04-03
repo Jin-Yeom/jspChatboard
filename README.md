@@ -12,4 +12,4 @@
 인원 : 1명
 
 # 프로젝트
-<div style="color: red;">시작 화면</div>
+<div style="color: red">시작 화면</div>
