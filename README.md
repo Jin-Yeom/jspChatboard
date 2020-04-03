@@ -28,8 +28,8 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 ![login](https://user-images.githubusercontent.com/57334358/78344343-353f9800-75d7-11ea-821f-f616ceeaf3ac.PNG)
 ![register](https://user-images.githubusercontent.com/57334358/78344473-66b86380-75d7-11ea-9ab9-0d7ec072e9e7.PNG)
 
-간단한 정보들을 넣을 수 있도록 회원가입을 구성했습니다. 
-
+간단한 정보들을 넣을 수 있도록 회원가입을 구성했습니다. <br>
+로그인을 하지 않을 시에는 사이트의 기능을 사용하지 못합니다.
 
 <strong>프로필 수정 및 회원정보 수정</strong>
 
@@ -38,7 +38,8 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 ![프로필수정](https://user-images.githubusercontent.com/57334358/78345238-6c627900-75d8-11ea-9c83-490f79289dbc.PNG)
 ![회원정보수정](https://user-images.githubusercontent.com/57334358/78345266-77b5a480-75d8-11ea-8558-21c6ffeede8f.PNG)
 
-회원정보와 프로필을 수정 할 수 있습니다.
+회원정보와 프로필을 수정 할 수 있습니다.<br>
+프로필을 등록하지 않았을 시에는 기본 아이콘이 나오도록 설정하였습니다.
 
 
 <strong>메시지함</strong>
@@ -67,4 +68,13 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 
 ![채팅](https://user-images.githubusercontent.com/57334358/78348056-6078b600-75dc-11ea-9151-828b63fe8762.PNG)
 
-실시간 채팅창입니다. 내용을 작성하면 채팅창에 기록이 되고 받는 대상의 '읽지 않은 메시지 수'를 추가시킵니다.
+내용을 작성하면 채팅창에 기록이 되고 받는 대상의 '읽지 않은 메시지 수'를 추가시킵니다.
+
+
+<strong>게시판</strong>
+
+
+
+![게시판](https://user-images.githubusercontent.com/57334358/78348783-8f435c00-75dd-11ea-9b8c-5d9ae8e211ab.PNG)
+
+자신의 게시물을 수정 및 삭제할 수 있습니다. 답변을 달 시에는 화살표로 '답변'이라고 표시해줍니다.
