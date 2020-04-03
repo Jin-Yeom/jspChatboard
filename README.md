@@ -80,7 +80,7 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 자신의 게시물을 수정 및 삭제할 수 있습니다. 답변을 달 시에는 화살표로 '답변'이라고 표시해줍니다.
 
 
-<strong>게시판</strong>
+<strong>파일 다운로드</strong>
 
 
 
