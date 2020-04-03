@@ -20,6 +20,7 @@
 
 jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 
+
 <strong>로그인 및 회원가입</strong>
 
 
@@ -28,6 +29,7 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 ![register](https://user-images.githubusercontent.com/57334358/78344473-66b86380-75d7-11ea-9ab9-0d7ec072e9e7.PNG)
 
 간단한 정보들을 넣을 수 있도록 회원가입을 구성했습니다. 
+
 
 <strong>프로필 수정 및 회원정보 수정</strong>
 
@@ -38,6 +40,7 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 
 회원정보와 프로필을 수정 할 수 있습니다.
 
+
 <strong>메시지함</strong>
 
 
@@ -45,4 +48,14 @@ jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 ![메시지함](https://user-images.githubusercontent.com/57334358/78346704-5e155c80-75da-11ea-8711-0c13cc718f1c.PNG)
 
 다른 유저에게 채팅을 보내면 메시지함에 읽지 않은 메시지로 저장이 됩니다. <br>
-읽었을 시 '읽지 않은 메시지 수' 아이콘이 사라집니다.
+읽었을 시, '읽지 않은 메시지 수' 아이콘이 사라지며 채팅창으로 이동하게 됩니다.
+
+
+<strong>친구 찾기</strong>
+
+
+![검색1](https://user-images.githubusercontent.com/57334358/78347690-d4ff2500-75db-11ea-9fb5-c82f38626f8d.PNG)
+![검색](https://user-images.githubusercontent.com/57334358/78347271-307ce300-75db-11ea-8512-e4d306b19d72.PNG)
+
+채팅창을 들어가면 우선 대상자를 찾을 수 있게 도와줍니다. <br>
+검색을 통해 대상을 찾았다면 대상이 지정해놓은 이미지와 함께 채팅창으로 들어가는 버튼이 활성화됩니다.
