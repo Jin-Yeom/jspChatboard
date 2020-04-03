@@ -1,5 +1,5 @@
 <style>
-  .body {
+  body {
   color: red;
 </style>
 
