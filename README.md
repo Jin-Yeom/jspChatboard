@@ -5,7 +5,7 @@
 이 기능들은 회원가입 및 로그인을 하지 않으면 사용할 수 없습니다.
 
 # 사용 기술
-<li><a>Java, Html, xml, Servlet, Ajax, Json</a></li>
+<li><a>Java, Html, xml, Servlet, Ajax, Json, bootstrap</a></li>
 
 # 프로젝트 기간 및 인원
 기간 : 2020.03.12 ~ 2020.04.01<br>
@@ -17,3 +17,5 @@
 
 
 ![jsp](https://user-images.githubusercontent.com/57334358/78343163-64eda080-75d5-11ea-9a12-325f145a438d.png)
+
+시작화면입니다. 
