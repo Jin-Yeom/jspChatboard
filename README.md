@@ -21,6 +21,9 @@
 jumbotron과 footer, navbar를 사용하여 간단하게 꾸몄습니다.
 
 <strong>로그인 및 회원가입</strong>
+
+
+
 ![login](https://user-images.githubusercontent.com/57334358/78343849-6bc8e300-75d6-11ea-950b-471678ebdc16.PNG)
 ![register](https://user-images.githubusercontent.com/57334358/78343913-84d19400-75d6-11ea-8314-10cfd61b24eb.PNG)
 
