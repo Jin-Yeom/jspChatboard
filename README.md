@@ -13,4 +13,4 @@
 
 # 프로젝트
 <strong>시작 화면</strong>
-<img src="C:\Users\vpxh1\OneDrive\바탕 화면\jsp.png" alt="" class="img-fluid">
+
